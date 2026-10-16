@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AppConsola/AppConsola.csproj": {}
+    "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AppConsola\\AppConsola.csproj": {}
   },
   "projects": {
-    "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AccesoDatos/AccesoDatos.csproj": {
+    "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AccesoDatos/AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AccesoDatos/AccesoDatos.csproj",
-        "packagesPath": "/Users/danielrodriguez/.nuget/packages/",
-        "outputPath": "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AccesoDatos/obj/",
+        "projectPath": "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AccesoDatos\\AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\ponce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/danielrodriguez/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ponce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -345,22 +347,24 @@
         }
       }
     },
-    "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AppConsola/AppConsola.csproj": {
+    "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AppConsola\\AppConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AppConsola/AppConsola.csproj",
+        "projectUniqueName": "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AppConsola\\AppConsola.csproj",
         "projectName": "AppConsola",
-        "projectPath": "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AppConsola/AppConsola.csproj",
-        "packagesPath": "/Users/danielrodriguez/.nuget/packages/",
-        "outputPath": "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AppConsola/obj/",
+        "projectPath": "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AppConsola\\AppConsola.csproj",
+        "packagesPath": "C:\\Users\\ponce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AppConsola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/danielrodriguez/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ponce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -368,8 +372,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AccesoDatos/AccesoDatos.csproj": {
-                "projectPath": "/Users/danielrodriguez/Documents/TP_Gimnasio_PonceRodriguez/AccesoDatos/AccesoDatos.csproj"
+              "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AccesoDatos\\AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\ponce\\Downloads\\Biblioteca_Ejercicio\\Biblioteca_Ejercicio\\TP_Gimnasio_PonceRodriguez\\AccesoDatos\\AccesoDatos.csproj"
               }
             }
           }
@@ -424,7 +428,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
