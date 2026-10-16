@@ -5,6 +5,7 @@ namespace AccesoDatos.Models
         public int Id { get; set; }
         public string Nombre { get; set; }
         public decimal Precio { get; set; }
+        public bool Activo { get; set; }
         public int ProfesorId { get; set; }
         public Profesor Profesor { get; set; }
         public List<Suscripcion> Suscripciones { get; set; }

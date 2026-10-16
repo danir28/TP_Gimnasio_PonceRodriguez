@@ -1,4 +1,4 @@
-## Diagrama de Clases
+# Diagrama de Clases
 
 ```mermaid
 classDiagram
@@ -44,7 +44,7 @@ classDiagram
         +DateTime Fecha
         +decimal Monto
         +int SuscripcionId
-        +Suscripcion Suscripcion
+        +Suscripcion Suscripciones
     }
     Profesor "1" --> "*" Plan
     Plan "1" --> "*" Suscripcion

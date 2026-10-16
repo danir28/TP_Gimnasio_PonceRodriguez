@@ -46,3 +46,7 @@ Para guardar un registro, por ejemplo un socio nuevo:
 4. Entity Framework Core traduce la operación a SQL y la guarda en la **base de datos**.
 
 De esta forma la interfaz no conoce los detalles de la base de datos: solo habla con el repositorio.
+
+## Diagrama de Clases
+
+El diagrama de clases del sistema está en [DiagramaDeClases.md](DiagramaDeClases.md).
